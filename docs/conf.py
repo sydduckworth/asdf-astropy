@@ -57,7 +57,7 @@ intersphinx_mapping["asdf-standard"] = ("https://asdf-standard.readthedocs.io/en
 intersphinx_mapping["asdf-transform-schemas"] = ("https://asdf-transform-schemas.readthedocs.io/en/latest/", None)
 intersphinx_mapping["asdf-coordinates-schemas"] = ("https://asdf-coordinates-schemas.readthedocs.io/en/latest/", None)
 
-extlinks = {'asdf': ('https://www.asdf-format.org/projects/asdf/en/latest/%s', None)}
+extlinks = {"asdf": ("https://www.asdf-format.org/projects/asdf/en/latest/%s", None)}
 extlinks_detect_hardcoded_links = True
 
 # To perform a Sphinx version check that needs to be more specific than
