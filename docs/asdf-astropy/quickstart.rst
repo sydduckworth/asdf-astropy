@@ -72,6 +72,6 @@ In the same way that the `~astropy.modeling.functional_models.Gaussian1D` model 
 Further Reading
 ===============
 
-For further getting started material on **ASDF** see :asdf:`Overview <overview>`. If one
+For further getting started material on **ASDF** see :asdf:`Overview <asdf/overview/>`. If one
 wants to find more examples of how to write an **astropy** `~astropy.table.Table`
 to **ASDF** files, see :ref:`table`.
