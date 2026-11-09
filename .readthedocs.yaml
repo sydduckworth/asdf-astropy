@@ -6,6 +6,9 @@ build:
     - graphviz
   tools:
     python: "3.12"
+  jobs:
+    post_build:
+      - cd docs && make linkcheck
 
 sphinx:
   fail_on_warning: true
